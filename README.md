@@ -28,22 +28,30 @@
 ## 🚀 Projects I'm Proud Of
 
 ### 🛡️ [Hunter’s League (Java)](https://github.com/Elmehdi-Erraji/Hunters-League)
-> Spring Boot backend for hunting competitions with JWT auth, role-based access, and Dockerized microservices.
+> 🦌 A Spring Boot backend powering hunting competitions in Quebec with JWT auth and role-based access.
 
-- Materialized views for 100M+ rows
-- Integrated with Jenkins, SonarQube, and Docker
-- Role-based dashboards: Member | Jury | Admin
+- Built using **Java 17**, **Spring Boot**, and **PostgreSQL**
+- Optimized performance using **materialized views** for 100M+ records
+- Secure authentication and authorization (JWT + Spring Security)
+- Modular microservices architecture, containerized with **Docker**
+- **CI/CD integration with Jenkins**, code quality monitoring via **SonarQube**
+- Dedicated dashboards for **Member**, **Jury**, and **Admin** roles
+
+---
+
+### 🎫 [Guidely – Support Ticket System (Java)](https://github.com/Elmehdi-Erraji/User-support-system)
+> 🔧 A real-time ticketing system for managing user support flows and communications.
+
+- Developed with **Java**, **Spring Boot**, and **Thymeleaf**
+- Real-time messaging with **WebSocket + STOMP**
+- Secure REST APIs using **Spring Security (JWT)** and **role-based access**
+- File upload, ticket creation, status updates, and priority tagging
+- Message queuing with **RabbitMQ** for async email notifications
+- Integrated **SonarQube** for code quality gates, CI/CD-ready
+- Containerized with **Docker** and tested for scalable deployment
 
 ---
 
-### 🎫 [Guidely – Ticket System (Laravel)](https://github.com/Elmehdi-Erraji/User-support-system)
-> Role-based ticket support app with Laravel Sanctum auth, real-time UX.
-
-- Multi-role support (Client, Agent, Admin)
-- Secure file uploads, clean REST API
-- Fully responsive UI and validation
-
----
 
 
 
