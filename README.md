@@ -45,19 +45,13 @@
 
 ---
 
-### 🧪 [Brief4 – Startup Showcase Website](https://brief4.vercel.app/)
-> A pixel-perfect responsive promo site with clean animations and SEO optimization.
 
-- Built with pure HTML, CSS, JS
-- Project managed via Trello, UI designed with Canva
-
----
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elmehdi-Erraji&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmehdi-Erraji&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmehdi-Erraji&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_rank=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmehdi-Erraji&layout=compact&theme=radical&hide=html,scss,blade,css&langs_count=6" width="48%" />
 </p>
 
 ---
