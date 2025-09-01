@@ -84,7 +84,7 @@
 - Building portfolio and landing freelance/collab projects
 
 ### 📫 Connect With Me
-- **Email**: your.email@example.com
+- **Email**: elmehdi-erraji@hotmail.com
 - **LinkedIn**: linkedin.com/in/mehdi-erraji
 - **Instagram**: @elmahdi.erraji
 
